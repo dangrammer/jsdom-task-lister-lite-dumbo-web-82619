@@ -1,3 +1,5 @@
+// INCOMPLETE CODE. NEEDS REFACTORING AND FINAL DELIVERABLES
+
 document.addEventListener("DOMContentLoaded", function() {
   let listOfTasksUL = document.querySelector("#tasks")
   let createTaskForm = document.querySelector("#create-task-form")
